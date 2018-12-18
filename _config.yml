@@ -1,9 +1,9 @@
 # main text of home
 name: もんりぃ先生
-bio: A Man who travels the world eating noodles
+bio: To concentrate creator on creation
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: About @monry
 
 # if it's an external image, update below for true
 # better with square images
@@ -48,7 +48,7 @@ email: monry84@gmail.com
 authors:
     monry:
         name: monry
-        bio: ほげほげ
+        bio: To concentrate creator on creation
         external-image: false
         picture: assets/images/profile.jpg
         twitter: monry
