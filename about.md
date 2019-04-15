@@ -129,6 +129,7 @@ Unite に登壇するのが直近の目標。
 
 ## 講義・出演
 
+* [Unity ユーザのための Git ハンズオン](https://meetup.unity3d.jp/jp/communities/15)
 * [ものラジ](https://monorazi.hateblo.jp/)
     * メインパーソナリティを務める
 * [Schoo / Unity の uGUI で作る 2D ゲーム](https://schoo.jp/class/4558)
