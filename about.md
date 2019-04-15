@@ -115,6 +115,9 @@ Unite に登壇するのが直近の目標。
 
 ## 寄稿
 
+* [キッズスター学習帳](https://kidsstar-tbf.booth.pm/items/1313014)
+    * 第1章 ごっこランドを支える技術 〜AssetBundle 編〜
+    * 本書の編集作業なども担当しました
 * [UNIBOOK10](https://booth.pm/ja/items/957654)
     * 第15章 まだ依存管理で消耗してるの？umm で依存解決はうまくいく！
 * [UNIBOOK9](https://booth.pm/ja/items/831502)
