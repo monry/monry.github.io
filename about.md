@@ -14,18 +14,26 @@ layout: page
     <tr>
       <td width="50%">
          <a href="https://blogs.unity3d.com/jp/2018/12/18/ambassador-ja/" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081485-edee9600-0231-11e9-98b8-855121172680.png" width="250" height="200"></a>
-       </td>
-       <td width="50%">
-         <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081518-0494ed00-0232-11e9-9fc1-3b66bc706739.png" width="126" height="200"></a>
-       </td>
+      </td>
+      <td width="50%">
+        <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank"><img src="https://user-images.githubusercontent.com/838945/50081518-0494ed00-0232-11e9-9fc1-3b66bc706739.png" width="126" height="200"></a>
+      </td>
     </tr>
     <tr>
-       <td width="50%">
-         <p class="center"><a href="https://blogs.unity3d.com/jp/2018/12/18/ambassador-ja/" target="_blank">Unity Ambassador</a></p>
-       </td>
-       <td width="50%">
-         <p class="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank">2019-2020 Microsoft MVP for Developer Technologies</a></p>
-       </td>
+      <td width="50%">
+        <p class="center"><a href="https://blogs.unity3d.com/jp/2018/12/18/ambassador-ja/" target="_blank">Unity Ambassador</a></p>
+      </td>
+      <td width="50%">
+        <p class="center"><a href="https://mvp.microsoft.com/en-us/PublicProfile/5003290" target="_blank">Microsoft MVP for Developer Technologies</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+      </td>
+      <td width="50%">
+        <p>First awarded: <strong>2018</strong></p>
+        <p>Number of MVP Awards: <strong>2</strong></p>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -113,8 +121,15 @@ Unite に登壇するのが直近の目標。
 * [Blog: 個人](https://monry.hatenablog.com/)
 * [Blog: マンガでわかる Unity](https://unity-manga.hatenablog.com/)
 
+## 書籍
+
+* [Unity デザイナーズバイブル](https://www.borndigital.co.jp/book/18319.html)
+    * Part1 入門編
+
 ## 寄稿
 
+* [UNIBOOK11](https://booth.pm/ja/items/1503224)
+    * 第5章 Unity Package Manager 民主化の波に乗る方法
 * [キッズスター学習帳](https://kidsstar-tbf.booth.pm/items/1313014)
     * 第1章 ごっこランドを支える技術 〜AssetBundle 編〜
     * 本書の編集作業なども担当しました
@@ -129,6 +144,8 @@ Unite に登壇するのが直近の目標。
 
 ## 講義・出演
 
+* [Unity ステーション](https://www.youtube.com/playlist?list=PLFw9ryLdiLzZrglM9EATbH5kb46r736Et)
+    * [書籍『Unityデザイナーズ・バイブル』出版記念トーク大会](https://www.youtube.com/watch?v=VjgjFHnLeQU&list=PLFw9ryLdiLzZrglM9EATbH5kb46r736Et&index=14&t=0s)
 * [Unity ユーザのための Git ハンズオン](https://meetup.unity3d.jp/jp/communities/15)
 * [ものラジ](https://monorazi.hateblo.jp/)
     * メインパーソナリティを務める
