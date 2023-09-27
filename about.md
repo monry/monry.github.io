@@ -32,7 +32,7 @@ layout: page
       </td>
       <td width="50%">
         <p>First awarded: <strong>2018</strong></p>
-        <p>Number of MVP Awards: <strong>2</strong></p>
+        <p>Number of MVP Awards: <strong>5</strong></p>
       </td>
     </tr>
   </tbody>
@@ -46,6 +46,8 @@ layout: page
 その後、[株式会社アイフリーク](http://www.i-freek.co.jp/)の子ども向けアプリ開発事業を行うセクションにジョインし、[絵本アプリ](http://ehonkan.jp/)の開発を皮切りに子ども向け知育・エンタメアプリの開発に従事。<br />
 2014年に同セクションが[株式会社キッズスター](https://www.kidsstar.co.jp/)として独立し、2016年に同社 CTO に着任。現在に至る。
 
+これまでの詳細な職務履歴などは[こちらのページ](/work)をご参照ください。
+
 ## テーマ
 
 **クリエイターをものづくりに集中させる**
@@ -58,15 +60,11 @@ layout: page
 
 それが高じて、社内外を問わず勉強会での登壇やハンズオン講師などを務め、Unity Technologies Japan 社より **Unity Ambassador** として任命される。
 
-また、UNIBOOK への寄稿や Schoo での動画講義など、様々な形でのアウトプットに精を出している。
+また、Unity 関連の書籍執筆や Unity Japan 公式のウェブ記事の執筆なども行う。
 
-更に、Gotanda.unity をはじめとする各種コミュニティにも積極的に参加しており、「Unity ○○完全に理解した勉強会」シリーズのオーガナイザも務めることが多い。
+更に、Gotanda.unity をはじめとする各種コミュニティにも積極的に参加しており、「Unity ○○完全に理解した勉強会」シリーズのオーガナイザも務める。
 
-2018年中旬から、「[マンガでわかる Unity](https://unity-manga.hatenablog.com/)」のブログ連載を開始。
-
-Unite に登壇するのが直近の目標。
-
-**技術顧問の依頼、受け付けています！**
+Unite / CEDEC に登壇するのが直近の目標。
 
 ### エンジニアリング
 
@@ -74,38 +72,42 @@ Unite に登壇するのが直近の目標。
 
 汎用的なライブラリやフレームワークの開発を通じてエンジニアの役に立つことが何よりの歓び。
 
-最近は Unity 向けの[モジュール管理システム](https://github.com/umm/umm)の開発や、Clean Architecture を Unity 向けに適用した[アーキテクチャフレームワーク](https://github.com/umm/cafu_core)の開発を行い、布教活動に勤しんでいる。
+「誰かが為した技術は、自分にも再現できるはず」を信条に、理解できるまで諦めずに調べられるのが強みの1つ。
+
+最近は [@neuecc](https://github.com/neuecc) 氏が提唱する [C# 大統一理論](https://neue.cc/2018/08/25_568.html)に則り、クライアントからサーバサイドまで C# で構成するシステム開発に精を出す。
 
 ### おじさん
 
-* ビルドおじさん
-* AssetBundle おじさん
-* 設計おじさん
-* テストおじさん
+- ビルドおじさん
+- 設計おじさん
+- テストおじさん
+- CI/CD おじさん
 
 この辺りの、エンジニアリングのベースとなる分野の研究が好きで、**実務を踏まえたおじさん業**を得意とする。
-
-**おじさん業の委託、受け付けています！**
 
 ## 技術
 
 現在は Unity に軸足を置いており、その周辺技術に対する知見も豊富に持つ。<br />
 主立った得意分野としては以下の通り。
 
-* Unity
-    * C#
-    * 2D アプリ・ゲーム開発
-    * ビルドシステム構築
-    * AssetBundle 運用
-* BigData
-    * Google BigQuery
-    * Tableau
-* App Market
-    * App Store
-    * Google Play
-* IaaS/BaaS
-    * Amazon Web Services
-    * Firebase
+- Unity
+  - C#
+  - 2D アプリ・ゲーム開発
+  - ビルドシステム構築
+  - AssetBundle 運用
+- ASP.NET Core
+  - Entity Framework Core
+  - Azure Functions
+- BigData
+  - Google BigQuery
+- App Market
+  - App Store
+  - Google Play
+- IaaS/BaaS
+  - Microsoft Azure
+  - Amazon Web Services
+  - Firebase
+  - PlayFab
 
 ## パーソナリティ
 
@@ -117,14 +119,20 @@ Unite に登壇するのが直近の目標。
 * [Twitter](https://twitter.com/monry)
 * [Facebook](https://www.facebook.com/monry84)
 * [GitHub](https://github.com/monry)
-* [Microsoft MVP](https://mvp.microsoft.com/ja-jp/PublicProfile/5003290)
-* [Blog: 個人](https://monry.hatenablog.com/)
-* [Blog: マンガでわかる Unity](https://unity-manga.hatenablog.com/)
+* [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/903361c8-bfd9-e811-8172-3863bb2e0320)
+* [Blog](https://zenn.dev/monry)
 
 ## 書籍
 
-* [Unity デザイナーズバイブル](https://www.borndigital.co.jp/book/18319.html)
+* [Unity デザイナーズ・バイブル](https://www.borndigital.co.jp/book/18319.html)
     * Part1 入門編
+* [Unity ゲームプログラミング・バイブル 2nd Generation](https://www.borndigital.co.jp/book/22432.html)
+    * 35 Addressable Assets Systemによるアセット管理
+    * 36 ビルド管理・パッケージ管理
+* [Unity デザイナーズ・バイブル Reboot](https://www.borndigital.co.jp/book/29947.html)
+    * Part1 入門編
+* [Unity バイブル R5 夏号](https://www.borndigital.co.jp/book/30830.html)
+    * 編集委員として参加
 
 ## 寄稿
 

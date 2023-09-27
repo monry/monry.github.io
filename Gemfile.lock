@@ -300,6 +300,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
+  jekyll-watch
   jemoji
   rake
   rouge
