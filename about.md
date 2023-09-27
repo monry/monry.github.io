@@ -32,7 +32,7 @@ layout: page
       </td>
       <td width="50%">
         <p>First awarded: <strong>2018</strong></p>
-        <p>Number of MVP Awards: <strong>2</strong></p>
+        <p>Number of MVP Awards: <strong>5</strong></p>
       </td>
     </tr>
   </tbody>
@@ -74,12 +74,11 @@ Unite に登壇するのが直近の目標。
 
 汎用的なライブラリやフレームワークの開発を通じてエンジニアの役に立つことが何よりの歓び。
 
-最近は Unity 向けの[モジュール管理システム](https://github.com/umm/umm)の開発や、Clean Architecture を Unity 向けに適用した[アーキテクチャフレームワーク](https://github.com/umm/cafu_core)の開発を行い、布教活動に勤しんでいる。
+最近は [@neuecc](https://github.com/neuecc) 氏が提唱する [C# 大統一理論](https://neue.cc/2018/08/25_568.html)に則り、クライアントからサーバサイドまで C# で構成するシステム開発に精を出す。
 
 ### おじさん
 
 * ビルドおじさん
-* AssetBundle おじさん
 * 設計おじさん
 * テストおじさん
 
@@ -99,12 +98,12 @@ Unite に登壇するのが直近の目標。
     * AssetBundle 運用
 * BigData
     * Google BigQuery
-    * Tableau
 * App Market
     * App Store
     * Google Play
 * IaaS/BaaS
-    * Amazon Web Services
+    * Azure
+    * AWS
     * Firebase
 
 ## パーソナリティ
@@ -117,13 +116,17 @@ Unite に登壇するのが直近の目標。
 * [Twitter](https://twitter.com/monry)
 * [Facebook](https://www.facebook.com/monry84)
 * [GitHub](https://github.com/monry)
-* [Microsoft MVP](https://mvp.microsoft.com/ja-jp/PublicProfile/5003290)
-* [Blog: 個人](https://monry.hatenablog.com/)
-* [Blog: マンガでわかる Unity](https://unity-manga.hatenablog.com/)
+* [Microsoft MVP](https://mvp.microsoft.com/en-US/mvp/profile/903361c8-bfd9-e811-8172-3863bb2e0320)
+* [Blog](https://zenn.dev/monry)
 
 ## 書籍
 
-* [Unity デザイナーズバイブル](https://www.borndigital.co.jp/book/18319.html)
+* [Unity デザイナーズ・バイブル](https://www.borndigital.co.jp/book/18319.html)
+    * Part1 入門編
+* [Unity ゲームプログラミング・バイブル 2nd Generation](https://www.borndigital.co.jp/book/22432.html)
+    * 35 Addressable Assets Systemによるアセット管理
+    * 36 ビルド管理・パッケージ管理
+* [Unity デザイナーズ・バイブル Reboot](https://www.borndigital.co.jp/book/29947.html)
     * Part1 入門編
 
 ## 寄稿
