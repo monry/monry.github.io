@@ -1,5 +1,6 @@
 # main text of home
 name: もんりぃ先生
+title: もんりぃ先生
 bio: To concentrate creator on creation
 
 # twitter summary info
@@ -92,7 +93,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-mentions
   - jekyll-seo-tag
